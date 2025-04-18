@@ -17,7 +17,7 @@
 *.hex
 *.bin
 *.Bak
-
+*.vscode
 #Keil Project screen layout file
 *.uvguix.*
 *.uvgui.*
